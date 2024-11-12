@@ -1,8 +1,8 @@
 
 Dsa 2 stack 
-Name:- Jyoti Rajesh Makwan 
+Name:- Mayur Gawatre
 Sub :- dsa 
-Name:- Jyoti Rajesh Makwan
+
 Assingment no :-2
 
 #include <iostream>
